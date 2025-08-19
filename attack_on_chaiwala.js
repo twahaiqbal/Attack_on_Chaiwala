@@ -2,9 +2,9 @@
 
 // Place this in an HTML file with a <canvas id="gameCanvas"></canvas> element
 
-const CELL_SIZE = 25;
-const GRID_WIDTH = 30;
-const GRID_HEIGHT = 12;
+const CELL_SIZE = 30;
+const GRID_WIDTH = 50;
+const GRID_HEIGHT = 25;
 const SCREEN_WIDTH = CELL_SIZE * GRID_WIDTH;
 const SCREEN_HEIGHT = CELL_SIZE * GRID_HEIGHT;
 
@@ -157,4 +157,5 @@ window.addEventListener('keydown', function(e) {
 
 resetGame();
 requestAnimationFrame(gameLoop);
+
 
