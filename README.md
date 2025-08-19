@@ -10,6 +10,8 @@ Also, I don't have any special hate for India.
 We Bangladeshis, Indians, and Pakistanis are the same — I don’t discriminate.  
 I hate us all equally.  
 
+Try the game here: [Attack on Chaiwala](https://twahaiqbal.github.io/Attack_on_Chaiwala/)
+
 ---
 
 ## About This Code  
